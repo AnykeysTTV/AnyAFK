@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnyAFK">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnyAFK</output-path>
+    <root id="archive" name="AnyAFK.jar">
+      <element id="module-output" name="AFKScript" />
+    </root>
+  </artifact>
+</component>
